@@ -2,8 +2,6 @@
 title: "Keynotes"
 weight: 4
 header_menu: true
-detailed_page_path: /legal/
-detailed_page_homepage_content: true
 ---
 
 {{< figure src="images/aaqib.webp" width="200" alt="Aaqib Saeed" class="left" >}}
