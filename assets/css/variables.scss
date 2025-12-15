@@ -1,0 +1,36 @@
+:root {
+   /* === Cover / Landing area === */
+    --cover-text-color: #2B2B2B; /* Dark charcoal for strong contrast */
+    /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
+    --highlight: #E8B4A8; /* Dusty rose/rose gold */
+    --highlight-contrast: var(--cover-text-color);
+    /*inverse colors used for :hover */
+    --highlight-inverse: var(--section-dark-bg-color);
+    --highlight-inverse-contrast: white;
+    /* visual guard around title and description, when the feature is enabled */
+    --cover-title-and-description-guard-bg-color: rgba(255, 252, 251, 0.85); /* Higher opacity, matches light bg */
+    --cover-title-text-shadow: rgba(255, 255, 255, 0.9) 0px 0px 10px; /* Stronger shadow */
+    /* === sticky top/left navigation menus === */
+    --sticky-menu-text-color: #3A3A3A;
+    /* === Alternating content (post) sections  === */
+    /* Light section - text color */
+    --section-light-text-color: #3A3A3A;
+    /* Light section - background color */
+    --section-light-bg-color: #FFFCFB;
+    /* Dark section - text color */
+    --section-dark-text-color: var(--section-light-bg-color);
+    /* Dark section - background color */
+    --section-dark-bg-color: #CE2D38;
+    /* Light&Dark section >quote. Suppressive color, compared to 'Light section - text color'*/
+    --section-uni-quote: #7A7A7A;
+    /* Light&Dark section `code` a bit darker than 'Light section - background color' */
+    --section-uni-code-bg-color: #F9F2F0;
+    /* === Single pages=== */
+    --single-page-text-color: var(--section-light-text-color);
+    --single-page-bg-color: var(--section-light-bg-color);
+    /* === Footer === */
+    --footer-color-background: #3A3A3A;
+    --footer-color: #FFFCFB;
+    /* === Lists === */
+    --ul-li-icon: fa-asterisk;
+}

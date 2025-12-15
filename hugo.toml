@@ -1,0 +1,22 @@
+baseURL = "https://beat-workshop.github.io/"
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+defaultContentLanguage = "en"
+
+title = 'Behavior and Emotion Analysis through wearable Technology (BEAT)'
+
+publishDir = "docs"
+theme = "hugo-scroll"
+
+[params]
+    title = "Behavior and Emotion Analysis through wearable Technology (BEAT)"
+    description = "Workshop at IEEE International Conference on Automatic Face and Gesture Recognition 2026, Kyoto, Japan"
+
+    favicon = "images/favicon.png"
+    images = ["images/cover.jpg"]
+
+    title_guard = true
+    hidedesignbyline = true
+    invertSectionColors = false
+
+    [params.meta]
+        keywords = "workshop, FG2026, Kyoto, wearables"
