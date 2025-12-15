@@ -12,7 +12,6 @@ theme = "hugo-scroll"
     description = "Workshop at IEEE International Conference on Automatic Face and Gesture Recognition 2026, Kyoto, Japan"
 
     favicon = "images/favicon.png"
-    images = ["images/cover.jpg"]
 
     title_guard = true
     hidedesignbyline = true
