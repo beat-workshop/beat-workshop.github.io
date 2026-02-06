@@ -11,7 +11,7 @@ theme = "hugo-scroll"
     title = "Behavior and Emotion Analysis through wearable Technology (BEAT)"
     description = "Workshop at IEEE International Conference on Automatic Face and Gesture Recognition 2026, Kyoto, Japan"
 
-    favicon = "images/favicon.png"
+    favicon = "images/beat.webp"
 
     title_guard = true
     hidedesignbyline = true
