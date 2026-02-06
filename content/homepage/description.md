@@ -1,5 +1,5 @@
 ---
-title: "Description"
+title: "Workshop Description"
 navigation_menu_title: "BEAT"
 weight: 1
 ---
