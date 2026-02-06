@@ -1,6 +1,7 @@
 ---
 title: "Call for Papers"
 navigation_menu_title: "Call for Papers"
+header_menu: true
 weight: 5
 ---
 
