@@ -26,3 +26,5 @@ Topics of interest include, but are not limited to:
 - Datasets and Benchmarks
 - Responsible data management and user consent
 - Applications in Affective Computing / Mobile Health / Action Recognition / Social Interaction / HRI
+
+{{< submit_button url="https://cmt3.research.microsoft.com/FG2026" text="Submit" >}}

@@ -241,6 +241,42 @@ a.fn-item {
   hyphens: auto;
 }
 
+/* Reusable submit button link styling */
+.post .post-content a.submit-button {
+  display: table;
+  margin: 1rem auto 0;
+  padding: 0.65rem 1.1rem;
+  border-radius: 8px;
+  border: 2px solid currentColor;
+  font-weight: 700;
+  text-decoration: none;
+  transition: background-color 0.2s ease, color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.content > .post-holder:nth-of-type(odd) .post .post-content a.submit-button {
+  background-color: var(--section-dark-bg-color);
+  color: var(--section-dark-text-color);
+}
+
+.content > .post-holder:nth-of-type(odd) .post .post-content a.submit-button:hover {
+  background-color: var(--section-light-bg-color);
+  color: var(--section-light-text-color);
+  transform: translateY(-1px);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.18);
+}
+
+.content > .post-holder:nth-of-type(even) .post .post-content a.submit-button {
+  background-color: var(--section-light-bg-color);
+  color: var(--section-light-text-color);
+}
+
+.content > .post-holder:nth-of-type(even) .post .post-content a.submit-button:hover {
+  background-color: var(--section-dark-bg-color);
+  color: var(--section-dark-text-color);
+  transform: translateY(-1px);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.18);
+}
+
 /* ======= Single pages =========== */
 .page-template {
 
