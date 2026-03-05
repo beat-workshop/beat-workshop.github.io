@@ -14,4 +14,4 @@ challenges such as **personalized modeling, on-device integration,** or
 
 The 1st Workshop on Behavioral and Emotion Analysis through wearable Technology (BEAT) aims to foster collaboration between ML researchers from various backgrounds (Gesture & Face Analysis, Affective Computing, HRI), as well as researchers in biomedical engineering. The main focus is on lightweight wearable movement and physiological sensors for computational human behavior analysis. While contributions are expected to be centered on real-world and ecologically valid settings, we also welcome controlled laboratory studies that introduce novel sensing approaches, benchmark datasets, or innovative applications.
 
-Participation in this workshop will take place in person during the [IEEE FG 2026](https://fg2026.ieee-biometrics.org), held in Kyoto from 25-29 May 2026.
+Participation in this workshop will take place in person on the 25th of May during the [IEEE FG 2026](https://fg2026.ieee-biometrics.org), held in Kyoto from 25-29 May 2026.
