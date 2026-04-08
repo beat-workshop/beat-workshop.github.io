@@ -4,21 +4,9 @@ weight: 4
 header_menu: true
 ---
 
-{{< figure src="images/aaqib.webp" width="200" alt="Aaqib Saeed" class="left" >}}
+{{< figure src="images/yusuke_yokota.png" width="200" alt="Yusuke Yokota" class="left" >}}
 
-**Aaqib Saeed**, Eindhoven University of Technology
-(TU/e), the Netherlands, is an Assistant Professor
-(tenured) at Eindhoven University of Technology (TU/e).
-He holds a Ph.D. cum laude from TU/e, where he
-conducted research in the Department of Mathematics
-and Computer Science, on self-supervised learning for
-8
-sensory data (ECG, EEG, IMU, PPG and Audio). Aaqib Saeed studies Artificial
-Intelligence at the intersection of Self-Supervised Learning, Sensing Systems,
-and Decentralized Computing. His work explores intelligent systems that can
-learn from raw sensory signals (ECG, EEG, Audio, Speech, IMU) without
-extensive human supervision, enabling scalable AI solutions for healthcare and
-beyond.
+**Yusuke Yokota** is a Neuroscientist at VIE Inc., Japan. He received his Ph.D. in Engineering from Toyohashi University of Technology. Following his doctoral studies, he joined the National Institute of Information and Communications Technology (NICT), where he specialized in the development of electroencephalography (EEG) systems and conducted brainwave measurement experiments in real-world environments. His research has led to significant findings in Error-Related Potentials (ErrP) and Auditory Steady-State Responses (ASSR). Currently, at VIE Inc., he leads research and development initiatives focused on Gamma Music and its diverse neuro-applications.
 
 {{< figure class="clear" >}}
 
