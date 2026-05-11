@@ -10,6 +10,8 @@ header_menu: true
 
 {{< figure class="clear" >}}
 
+---
+
 {{< figure src="images/zilu.webp" width="200" alt="Zilu Liang" class="right" >}}
 
 **Zilu Liang**, Kyoto University of Advanced Science
@@ -25,6 +27,8 @@ focuses on human-centered computing, wearable and ubiquitous technologies,
 and AI-driven methods for understanding and supporting human behavior.
 
 {{< figure class="clear" >}}
+
+---
 
 {{< figure src="images/kai.webp" width="200" alt="Kai Kunze" class="left" >}}
 
