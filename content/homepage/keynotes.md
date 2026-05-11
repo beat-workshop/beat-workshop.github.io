@@ -26,6 +26,15 @@ Oxford, and Imperial College London. Her research
 focuses on human-centered computing, wearable and ubiquitous technologies,
 and AI-driven methods for understanding and supporting human behavior.
 
+**Title:** Frictionless by Design, Bounded by Ethics: Rethinking In-the-Wild Data Collection with Wearable Sensing
+
+**Abstract:** Wearable sensing research has long struggled with the trade-off between experimental control and ecological validity. As wearable technologies become increasingly integrated into everyday life, we now have an opportunity to rethink how behavioral data can be collected in ways that better reflect people’s natural experiences and behaviors in the real world.
+This talk first introduces a frictionless-first philosophy for in-the-wild wearable sensing. Instead of relying on rigid protocols and researcher-dependent sessions, emerging systems increasingly leverage consumer smartwatches not only for passive physiological sensing, but also for lightweight self-reporting directly on the wrist. Our research further draws inspiration from behavioral nudging and serious games to reduce reporting burden while improving motivation and long-term participation. Although longitudinal evidence is still emerging, these approaches have strong potential for improving ecological validity, participant authenticity, and sustained engagement in real-world behavioral research.
+Alongside these advances, however, wearable sensing faces another challenge that is fundamentally ethical rather than technological. Many target events are inherently rare in natural settings, such as emotional crises, thermal stress, wound formation, or acute health deterioration. Researchers may therefore attempt to induce these events in semi-controlled environments to obtain labeled data for AI training and validation. Yet in many safety-critical contexts, doing so would expose participants to the very harm the sensing system is intended to prevent.
+The second part of the talk introduces the concept of “data non-collectable” — ground-truth labels that remain ethically inaccessible because the target condition itself cannot be responsibly induced. This creates an emerging ethical ceiling for AI validation in wearable and behavioral sensing research. The talk concludes by discussing alternative pathways including opportunistic clinical collaboration, longitudinal passive sensing, and precursor-focused annotation strategies.
+
+The field of wearable and behavioral technology has become remarkably effective at collecting more data, more continuously, and more unobtrusively than ever before. Yet its next defining challenge may not be sensing itself, but learning how to build intelligent systems around phenomena we cannot ethically induce.
+
 {{< figure class="clear" >}}
 
 ---
