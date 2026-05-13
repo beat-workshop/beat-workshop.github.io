@@ -8,6 +8,12 @@ header_menu: true
 
 **Yusuke Yokota** is a Neuroscientist at VIE Inc., Japan. He received his Ph.D. in Engineering from Toyohashi University of Technology. Following his doctoral studies, he joined the National Institute of Information and Communications Technology (NICT), where he specialized in the development of electroencephalography (EEG) systems and conducted brainwave measurement experiments in real-world environments. His research has led to significant findings in Error-Related Potentials (ErrP) and Auditory Steady-State Responses (ASSR). Currently, at VIE Inc., he leads research and development initiatives focused on Gamma Music and its diverse neuro-applications.
 
+**Title:** Wearable Neurotechnology for Real-World Sensing: Introducing the VIE EEG Headphone and Gamma Music Intervention
+
+**Abstract:** While computer vision excels at capturing observable behaviors, understanding a user's internal state requires directly monitoring their neural dynamics. Electroencephalography (EEG) captures neural processing with high temporal resolution. For instance, analyzing Event-Related Potentials (ERPs) like the N170 allows us to objectively observe how the brain perceives faces. 
+Historically, capturing such high-fidelity ERPs was strictly confined to controlled laboratories. To overcome this limitation, we developed the VIE EEG Headphone—a proprietary, wearable device designed to bring research-grade brain monitoring into real-world environments. This keynote will feature a live demonstration of its real-time neural feature extraction capabilities. 
+Furthermore, we will present our recent findings on Gamma Music. By shifting from merely "reading" the brain to actively "enhancing" cognitive performance, we aim to demonstrate how wearable neurotechnology will shape the future of human-computer interaction and mental health care.
+
 {{< figure class="clear" >}}
 
 ---
