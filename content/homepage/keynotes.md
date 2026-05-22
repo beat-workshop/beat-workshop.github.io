@@ -43,20 +43,3 @@ The field of wearable and behavioral technology has become remarkably effective 
 
 {{< figure class="clear" >}}
 
----
-
-{{< figure src="images/kai.webp" width="200" alt="Kai Kunze" class="left" >}}
-
-**Kai Kunze**, Keio University (KMD), Japan, works as
-Professor at the Graduate School of Media Design, Keio
-University, Yokohama, Japan. Beforehand, he held an
-Assistant Professorship at Osaka Prefecture University.
-With over 254 papers published at high profile
-conferences and journals (e.g. CHI, TOCHI, UIST, IEEE
-Computer), Kai Kunze is a pioneer researcher in the
-HCI field, augmenting humans using technology. His
-most significant research contributions are in Eyewear
-Computing and Placement Robust Activity Recognition. His current research also
-includes Digitalizing Human Emotions and Amplifying Human Senses.
-
-{{< figure class="clear" >}}
