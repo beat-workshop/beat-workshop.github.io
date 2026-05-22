@@ -19,3 +19,8 @@ theme = "hugo-scroll"
 
     [params.meta]
         keywords = "workshop, FG2026, Kyoto, wearables"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
