@@ -2,7 +2,7 @@
 title: "Call for Papers"
 navigation_menu_title: "Call for Papers"
 header_menu: true
-weight: 5
+weight: 6
 ---
 
 We welcome submissions to two tracks:
